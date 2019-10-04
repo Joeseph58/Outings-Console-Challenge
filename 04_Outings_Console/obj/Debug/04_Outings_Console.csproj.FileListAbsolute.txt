@@ -1,0 +1,10 @@
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\obj\Debug\04_Outings_Console.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\obj\Debug\04_Outings_Console.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\bin\Debug\04_Outings_Console.exe.config
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\bin\Debug\04_Outings_Console.exe
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\bin\Debug\04_Outings_Console.pdb
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\bin\Debug\Outings Repository.dll
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\bin\Debug\Outings Repository.pdb
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\obj\Debug\04_Outings_Console.csproj.CopyComplete
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\obj\Debug\04_Outings_Console.exe
+C:\Eleven Fifty Academy\0_Gold Badge\Projects\04_Outings_Console\04_Outings_Console\obj\Debug\04_Outings_Console.pdb
